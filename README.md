@@ -10,4 +10,5 @@
 2. + Plan 2 
 https://openreview.net/forum?id=SyK00v5xx
 ## Plan 3:
-1. 
+1. BILSTM baseline for classification
+2. ELMO, BERT, ULMFIT (Universal Language Model Fine-tuning for Text Classification)
