@@ -12,3 +12,5 @@
 ## Plan 3:
 1. BILSTM baseline for classification
 2. ELMO, BERT, ULMFIT (Universal Language Model Fine-tuning for Text Classification)
+
+Main communication channel: https://discord.gg/86pxBR5 
