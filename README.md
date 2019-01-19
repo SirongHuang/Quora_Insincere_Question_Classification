@@ -7,7 +7,7 @@
 
 ## Plan 2:
 1. add embedding feature
-2. + Plan 2
-
+2. + Plan 2 
+https://openreview.net/forum?id=SyK00v5xx
 ## Plan 3:
 1. 
