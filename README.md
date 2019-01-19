@@ -7,7 +7,7 @@
 
 ## Plan 2:
 1. add embedding feature
-2. same as Plan  
+2. same as Plan 1
 <br> [Embedding paper](https://openreview.net/forum?id=SyK00v5xx)
 ## Plan 3:
 1. BILSTM baseline for classification
