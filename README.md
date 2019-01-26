@@ -17,3 +17,7 @@ Name your folder: eg. "Plan1_yourname", and put your work in the folder. ^^
 
 
 Main communication channel: https://discord.gg/86pxBR5 
+
+
+
+https://docs.google.com/presentation/d/1QSyUIJZlEhhW0pKOyPJyYoRv2DkyhEh09QMfY293YLE
