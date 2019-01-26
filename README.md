@@ -2,6 +2,7 @@
 
 ## Session 2:
 1. RNN architecture with attention mechanism
+https://docs.google.com/presentation/d/1QSyUIJZlEhhW0pKOyPJyYoRv2DkyhEh09QMfY293YLE/edit#slide=id.p24
 2. CNN
 3. inbalanced data
 4. improve embedding
